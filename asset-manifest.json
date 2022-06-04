@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-health-care/static/css/main.9aa1cad5.chunk.css",
+    "main.js": "/my-health-care/static/js/main.ddca5033.chunk.js",
+    "main.js.map": "/my-health-care/static/js/main.ddca5033.chunk.js.map",
+    "runtime-main.js": "/my-health-care/static/js/runtime-main.5342a73d.js",
+    "runtime-main.js.map": "/my-health-care/static/js/runtime-main.5342a73d.js.map",
+    "static/js/2.c07ed6bb.chunk.js": "/my-health-care/static/js/2.c07ed6bb.chunk.js",
+    "static/js/2.c07ed6bb.chunk.js.map": "/my-health-care/static/js/2.c07ed6bb.chunk.js.map",
+    "index.html": "/my-health-care/index.html",
+    "static/css/main.9aa1cad5.chunk.css.map": "/my-health-care/static/css/main.9aa1cad5.chunk.css.map",
+    "static/js/2.c07ed6bb.chunk.js.LICENSE.txt": "/my-health-care/static/js/2.c07ed6bb.chunk.js.LICENSE.txt",
+    "static/media/logo01.ce6c5c0a.png": "/my-health-care/static/media/logo01.ce6c5c0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5342a73d.js",
+    "static/js/2.c07ed6bb.chunk.js",
+    "static/css/main.9aa1cad5.chunk.css",
+    "static/js/main.ddca5033.chunk.js"
+  ]
+}
